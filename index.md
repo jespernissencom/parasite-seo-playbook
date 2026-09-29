@@ -9,7 +9,10 @@ description: Rank on page one with social media, Web 2.0s, Google properties, an
 
 [![Watch the Parasite SEO Playbook video](https://img.youtube.com/vi/E5Zjybet_xM/maxresdefault.jpg)](https://www.youtube.com/watch?v=E5Zjybet_xM)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=E5Zjybet_xM) · [LinkedIn](https://www.linkedin.com/posts/jesper-nissen-9508794_parasite-seo-playbook-by-jesper-nissen-seo-activity-7510059287159955456-iqtA) · [Facebook](https://www.facebook.com/jespernissenseo/videos/parasite-seo-playbook-info/1404034851313511/) · [GitHub Gist](https://gist.github.com/someposter/c18b3b8580148d31e7121e1906660f51)
+[Watch on YouTube](https://www.youtube.com/watch?v=E5Zjybet_xM) · [LinkedIn](https://www.linkedin.com/posts/jesper-nissen-9508794_parasite-seo-playbook-by-jesper-nissen-seo-activity-7510059287159955456-iqtA) · [Facebook](https://www.facebook.com/jespernissenseo/videos/parasite-seo-playbook-info/1404034851313511/) · [GitHub README](https://github.com/jespernissencom/parasite-seo-playbook/blob/main/README.md) · [GitHub Gist](https://gist.github.com/someposter/c18b3b8580148d31e7121e1906660f51)
+
+
+
 
 **$299** · 23 chapters + appendix · instant access · no refunds
 
